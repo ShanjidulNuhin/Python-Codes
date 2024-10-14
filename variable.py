@@ -41,9 +41,9 @@ num3=30
 sum=num1+num2+num3
 avg=(num1+num2+num3)/3
 print(f"The sum is {sum}")
-if (avg<20):
-    print("The average of this number is not 20")
+if (avg<num3):
+    print(f"The average of the number is less then {num3}")
 else:
-    print("The average of the numbers is bigger then 20")
+    print(f"The average of the numbers is bigger then {num3}")
 
 

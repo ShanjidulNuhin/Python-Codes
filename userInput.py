@@ -22,6 +22,11 @@ print(f"The substriction of the numbers  are {sub}")
 print(f"The division of the numbers are {div}")
 print(f"The average of the numbers age {avg}")
 
-#Round Function
 x=33.5
+y=-4
+z=2
 print(round(x))#round keyword will make a round number
+print(abs(y))#absulute value is a distance away from 0 as a whole number
+print(pow(z,3))#power
+print(max(x,y,z))#maximum value
+print(min(x,y,z))#minimum value

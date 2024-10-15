@@ -21,3 +21,7 @@ print(f"The mutiplication of the numbers are {mul}")
 print(f"The substriction of the numbers  are {sub}")
 print(f"The division of the numbers are {div}")
 print(f"The average of the numbers age {avg}")
+
+#Round Function
+x=33.5
+print(round(x))#round keyword will make a round number

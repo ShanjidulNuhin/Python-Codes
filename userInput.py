@@ -30,3 +30,10 @@ print(abs(y))#absulute value is a distance away from 0 as a whole number
 print(pow(z,3))#power
 print(max(x,y,z))#maximum value
 print(min(x,y,z))#minimum value
+# Relational Operators
+a = 50
+b=100
+print(a==b)
+print(a!=b)
+#Logical Operators
+print(not(a<b))
